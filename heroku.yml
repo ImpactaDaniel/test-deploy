@@ -1,3 +1,3 @@
 build:
  docker:
-  web: WebApplication2/Dockerfile
+  web: Dockerfile
